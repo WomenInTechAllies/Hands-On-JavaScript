@@ -1,7 +1,7 @@
 # Hands-On_JavaScript
 
 ### Thanks so much to Mo Glatz and Momentum Learning for a great session! 
-This one was recorded and will be available on our YouTube Channel.
+This one was recorded and will be available on our YouTube Channel here ... https://youtu.be/7A0ghfyWYZw
 
 Code from the instructional:
 - https://codepen.io/meagabeth-the-reactor/pen/poNBMBj
