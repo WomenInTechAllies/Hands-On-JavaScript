@@ -1,0 +1,38 @@
+18:07:48 From Mo O'Connor (she/her) to Everyone : https://opensource101.com/
+18:10:25 From Mo O'Connor (she/her) to Everyone : They POST senior, but they consider juniors even if they don’t advertise it
+18:17:14 From Gabriela Lopez to Everyone : Chudel is your CISO! I love that guy. 
+18:17:26 From Susan Wands to Everyone : Share connect info if you want to: https://www.linkedin.com/in/susanwands/
+18:21:31 From Mo O'Connor (she/her) to Everyone : Intro: Name, pronouns, what’s your experience with javascript and maybe share a fun fact!
+18:22:38 From Micah Rogers to Everyone : Micah Rogers www.linkedin.com/in/micah-rogers964
+18:23:05 From Joy Cottongim to Everyone : https://www.linkedin.com/in/joycottongim/
+18:25:19 From Rachel Kirk to Everyone : https://www.linkedin.com/in/rachel-kirk-038357203/
+18:26:08 From Mo O'Connor (she/her) to Everyone : https://www.linkedin.com/in/meagan-mo-glatz/
+18:26:21 From Sharon to Everyone : https://www.linkedin.com/in/sharonbaartmans/
+18:30:31 From Mo O'Connor (she/her) to Everyone : TheOdinProject.com
+18:31:18 From Kay to Everyone : https://www.linkedin.com/in/kay-jones-007/
+18:31:59 From Mo O'Connor (she/her) to Everyone : https://codethedream.org/
+18:32:13 From Mo O'Connor (she/her) to Everyone : https://www.theodinproject.com/
+18:35:03 From laura to Everyone : I didn’t even know Java and Javascript were 2 different things.
+18:36:00 From Yolanda Haynes to Everyone : The bootcamp I’m I that’s free: https://leonnoel.com/100devs/
+18:36:18 From Yolanda Haynes to Everyone : ^ that gives a breakdown of what to expect
+18:37:16 From Yolanda Haynes to Everyone : https://www.linkedin.com/in/yolanda-haynes/
+18:42:39 From Gabriela Lopez to Everyone : https://www.linkedin.com/in/gabriela-lopez-a34698189
+18:44:14 From Gabriela Lopez to Everyone : What is the difference between Java and JavaScript?
+18:49:21 From Susan Wands to Everyone : All languages are different ways to have humans write instructions for computers. They have different compliers / translators to take those instructions down to a language the computer understands. JavaScript uses a complier in a web page. Java uses a compiler on a backend server.
+18:49:33 From nieshaMC to Everyone : that's how you assign variables in amplide
+18:49:42 From Sharon to Everyone : how do you get to the console
+18:52:01 From Mo O'Connor (she/her) to Everyone : Codepen.io
+18:52:25 From Mo O'Connor (she/her) to Everyone : https://codepen.io/meagabeth-the-reactor/pen/poNBMBj
+18:54:52 From Yolanda Haynes to Everyone : Is ur sticky note considered to be a pseudo code?
+19:31:40 From Micah Rogers to Everyone : For anyone interested in learning more about Momentum, here is my contact info. Micah Rogers - Admissions Advisor at Momentum Learning. -  email: micah@momentumlearn.com  -  phone: (919) 502-3114
+19:31:56 From Susan Wands to Everyone : https://github.com/WomenInTechAllies/Hands-On-JavaScript
+19:32:45 From Peter Ntiamoah to Susan Wands(Direct Message) : Hi Susan. The GitHub link leads to a dead end when you click it
+19:33:09 From nieshaMC to Everyone : onclick?
+19:34:11 From Susan Wands to Peter Ntiamoah(Direct Message) : Thanks … it was private
+19:34:17 From Susan Wands to Peter Ntiamoah(Direct Message) : Should be good now
+19:35:30 From Peter Ntiamoah to Susan Wands(Direct Message) : yep. Looks good on my end
+19:35:32 From Peter Ntiamoah to Susan Wands(Direct Message) : Thanks!
+19:40:17 From Yolanda Haynes to Everyone : I have to head out. Thank you very much for doing this! Much appreciated! Looking forward to connecting with everyone. Here is my LinkedIn again: https://www.linkedin.com/in/yolanda-haynes/ have a good day everyone! :)
+19:43:09 From nieshaMC to Everyone : you have number -1
+19:45:16 From Mo O'Connor (she/her) to Everyone : NOT bare bones: https://codepen.io/meagabeth-the-reactor/pen/eYBXVGr
+19:48:05 From Sharon to Everyone : thank you this was so helpful!
